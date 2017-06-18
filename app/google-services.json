@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "755821955677",
+    "firebase_url": "https://databse-login.firebaseio.com",
+    "project_id": "databse-login",
+    "storage_bucket": "databse-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755821955677:android:c3b59046a33368d1",
+        "android_client_info": {
+          "package_name": "com.example.admin.databaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755821955677-rhf5t2lga01bufrr5hnk311d3mjmhc8m.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "755821955677-1c13i106j7ebf87tn2cv2m5u10prakbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.databaselogin",
+            "certificate_hash": "f79adca874e9bfd016fbbce6322d473436440681"
+          }
+        },
+        {
+          "client_id": "755821955677-5ct0rnu59ehfir528n3oavh8shib905m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwch9jBeOVpCPQiGqXvn7JtT7S2Jj8SRA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755821955677-rhf5t2lga01bufrr5hnk311d3mjmhc8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
